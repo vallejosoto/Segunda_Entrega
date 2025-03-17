@@ -1,5 +1,3 @@
-/* Profesor, el siguiente trabajo busca trabajar sobre dos arrays la primera hace referencia a los servicios ofrecidos  por una oficnia de arquitectura y la segunda son los proyectos propios de esa oficina*/
-
 const servicios = function( nombre,precio,unidad){
     this.nombre = nombre
     this.precio = precio
@@ -29,6 +27,3 @@ function filtrarServicios(){
 }
 
 filtrarServicios ()
-
-
-
